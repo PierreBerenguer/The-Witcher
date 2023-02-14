@@ -1,0 +1,32 @@
+.synopsis {
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  text-align: center;   
+}
+.cartes {
+  display: flex;
+  justify-content: center;
+}
+.col {
+display: flex;
+justify-content: center;
+}
+.card {
+  display: flex;    
+  color: black;
+  width: 350px;
+  height: 920px;
+  margin-top: 100px;
+}
+.row {
+  justify-content: center;
+}
+@media screen and (max-width: 385px) {
+  .col {
+    max-width: 250px;     
+  }
+  .card {
+    height: fit-content;
+  }
+}
