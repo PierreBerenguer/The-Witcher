@@ -1,6 +1,6 @@
 
 
-J'ai essayé au maximum de compartimenté mon CSS dans les pages appropriées et en essayant de regrouper 
+J'ai essayé de compartimenter au maximum mon CSS dans les pages appropriées et en essayant de regrouper 
 les classes lors de mes déclarations.
 
 J'ai utilisé un container pour faire entrer ma vidéo dans mon <header> puis j'ai appliqué effet dessus via
